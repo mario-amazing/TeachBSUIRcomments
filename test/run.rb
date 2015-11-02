@@ -2,6 +2,6 @@
 
 $LOAD_PATH.unshift(File.dirname(File.realpath(__FILE__)) + '/../lib')
 
-require_relative '../lib/teacher_teller'
+require_relative '../lib/lectors_prober'
 
-puts TeacherTeller::Teller.new('322402').to_s
+puts LectorsProber::Prober.new('322402').to_s
