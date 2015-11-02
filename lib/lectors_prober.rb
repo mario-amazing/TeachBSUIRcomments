@@ -1,1 +1,2 @@
-require_relative 'teller/prober'
+require_relative 'prober/prober'
+require_relative 'prober/parser'
