@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+LectorsProber	lib/prober/parser.rb	/^module LectorsProber$/;"	m
+LectorsProber	lib/prober/prober.rb	/^module LectorsProber$/;"	m
+Parser	lib/prober/parser.rb	/^  class Parser$/;"	c	class:LectorsProber
+Prober	lib/prober/prober.rb	/^  class Prober$/;"	c	class:LectorsProber
+analysis_tonality	lib/prober/prober.rb	/^    def analysis_tonality(comment)$/;"	f	class:LectorsProber.Prober
+find_comments	lib/prober/prober.rb	/^    def find_comments(lector_link)$/;"	f	class:LectorsProber.Prober
+find_lectors	lib/prober/prober.rb	/^    def find_lectors$/;"	f	class:LectorsProber.Prober
+find_lectors_info	lib/prober/prober.rb	/^    def find_lectors_info(lectors)$/;"	f	class:LectorsProber.Prober
+initialize	lib/prober/parser.rb	/^    def initialize(args)$/;"	f	class:LectorsProber.Parser
+initialize	lib/prober/prober.rb	/^    def initialize(num_group)$/;"	f	class:LectorsProber.Prober
+parse	lib/prober/parser.rb	/^    def parse$/;"	f	class:LectorsProber.Parser
+to_s	lib/prober/prober.rb	/^    def to_s$/;"	f	class:LectorsProber.Prober
